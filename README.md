@@ -35,7 +35,7 @@ Pirateland is a pirate-themed game developed by a team I was part of (Fivemost),
 Due to the time constraints, some parts of the game stayed unfinished or in the prototype stage. However, the game is fully playable and enjoyable. It was developed primarily with Blueprints, Unreal Engine's visual scripting system, and C++ for some other parts of the game.
 
 > [!NOTE]
-> Although it's indicated in the itch.io page (and probably somewhere else), that the game will be developed further, it's not the case. We didn't have the time to continue it, although we really wanted to. Hope you enjoy the game as it is.
+> Although it's indicated in the itch.io page (and probably somewhere else) that the game will be developed further, it's not the case. We didn't have the time to continue it, although we really wanted to. Hope you enjoy the game as it is.
 
 ## 🛠️ How to Play
 
