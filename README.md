@@ -19,7 +19,7 @@
   <p><em><b>A pirate-themed game packed with exciting minigames on the high seas. </b></em></p>
 
   <p align="center">
-    <a href="https://unrealengine.com/"><img hspace="6" src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unity Engine" /></a>
+    <a href="https://unrealengine.com/"><img hspace="6" src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine" /></a>
     <a href="https://cplusplus.com"><img hspace="6" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C-Sharp" /></a><img height="28" src="https://forthebadge.com/images/featured/featured-built-with-love.svg" hspace="6" alt="Built with Love">
   </p>
 </div>
